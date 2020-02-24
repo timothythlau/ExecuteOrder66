@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Execute Order 66</string>
+    <string name="title_activity_article_details">ArticleDetailsActivity</string>
+    <string name="kotlin_news">Kotlin News</string>
+</resources>
